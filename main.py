@@ -20,7 +20,7 @@ def main():
     # n - thread count 
     # m - job count
     
-    n,m = map(int,input(),split())
+    n,m = map(int,input().split())
     data=list(map(int,input().split()))
     
     
